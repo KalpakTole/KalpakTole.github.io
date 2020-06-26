@@ -1,0 +1,13 @@
+.navbar-custom {
+	background-color: #000000;
+	font-size: 0.8rem;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+	color: #bbff01;
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+	color: #bbff01;
+}
