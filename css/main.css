@@ -11,3 +11,11 @@
 .navbar-custom .navbar-nav .nav-link {
 	color: #bbff01;
 }
+
+.vertical-text {
+	transform: rotate(90deg);
+}
+
+.neon {
+	color: #bbff01;
+}
