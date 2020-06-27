@@ -1,6 +1,5 @@
 .navbar-custom {
 	background-color: #000000;
-	font-size: 0.8rem;
 }
 /* change the brand and text color */
 .navbar-custom .navbar-brand,
@@ -18,4 +17,11 @@
 
 .neon {
 	color: #bbff01;
+}
+
+.cusfon {
+	font-size: 0.8rem;
+	font-family: "Inconsolata", monospace;
+	font-family: "Open Sans", sans-serif;
+	font-family: "Pangolin", cursive;
 }
