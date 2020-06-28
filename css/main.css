@@ -26,3 +26,14 @@
 	font-family: "Open Sans", sans-serif;
 	/* font-family: "Pangolin", cursive; */
 }
+
+.gray2rgb {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+
+.gray2rgb:hover {
+	transition: filter 0.2s ease-in-out;
+	-webkit-filter: grayscale(0%);
+	filter: grayscale(0%);
+}
