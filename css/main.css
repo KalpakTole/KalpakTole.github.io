@@ -20,8 +20,13 @@
 }
 
 .cusfon {
-	font-size: 0.8rem;
+	color: #bbff01;
+	font-size: 1rem;
 	font-family: "Inconsolata", monospace;
 	font-family: "Open Sans", sans-serif;
-	font-family: "Pangolin", cursive;
+	/* font-family: "Pangolin", cursive; */
+}
+
+.h1 {
+	max-width: 1000rem; !important;
 }
